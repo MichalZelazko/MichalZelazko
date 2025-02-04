@@ -1,7 +1,7 @@
 <h1>Hi, I’m @MichalZelazko</h1>
-3rd year student of Computer Science at Technical University of Łódź and a member of IT Department of its Student's Government
+Computer Science graduate at Technical University of Łódź and a Vice-President of IT Department of its Students' Self-Government
 <h3>👀 I’m interested in Web Development and UI/UX</h3>
-<h3>🌱 I’m currently learning React and TS</h3>
+<h3>🌱 I’m currently mastering Next.js, React and TypeScript</h3>
 <h3>📫 How to reach me: michalzelazko03@gmail.com</h3>
 
 <!---
